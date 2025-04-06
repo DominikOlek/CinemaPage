@@ -1,0 +1,1201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WDAI\\Projekt2\\KinoFront\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Users.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\Users.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Users.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Users.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\user.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\user.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\User.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\User.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\EmployMain.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\EmployMain.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Movies.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Movies.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\SeansPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\SeansPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\place.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\place.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\room.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\room.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\seans.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\seans.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\selectMovie.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\selectMovie.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\selectRoom.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\selectRoom.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\show.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\show.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\EditShow.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\EditShow.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Checking.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Checking.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\MoviePage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\MoviePage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\RoomPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\RoomPage.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Rooms.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Rooms.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Rooms.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\Rooms.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Shows.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\Shows.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\AddReservation.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\AddReservation.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\movie.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\movie.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\CheckOrder.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\CheckOrder.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Movies.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\Movies.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\layouts\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layouts\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\GetSeanses.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\GetSeanses.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\layouts\\usePagination.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\layouts\\usePagination.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\assets\\Pagination.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\assets\\Pagination.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\AddTicket.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\AddTicket.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\Register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\LogIn.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\LogIn.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\SeansI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\SeansI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\ShowI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\ShowI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\MovieI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\MovieI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\AddShow.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\AddShow.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\EditMovieI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\EditMovieI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\AddRoom.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\AddRoom.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\AddMovie.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\AddMovie.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\createroom.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\createroom.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\Room.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\Room.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\RefreshSession.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\RefreshSession.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\AddMovieI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\AddMovieI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\CategoryI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\CategoryI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\LogOut.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\LogOut.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\RegisterI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\RegisterI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\LoginI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\LoginI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\vite-env.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.app.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\TicketI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\TicketI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\stylePagin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\utils\\stylePagin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 47,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AddShow.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\AddShow.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\AddShow.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\AddShow.tsx",
+              "RelativeToolTip": "src\\pages\\AddShow.tsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T16:55:15.357Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movies.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Movies.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\Movies.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Movies.tsx",
+              "RelativeToolTip": "src\\pages\\Movies.tsx",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-19T13:22:36.675Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Rooms.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Rooms.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\Rooms.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Rooms.tsx",
+              "RelativeToolTip": "src\\pages\\Rooms.tsx",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwDsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T10:51:16.149Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "selectMovie.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\selectMovie.tsx",
+              "RelativeDocumentMoniker": "src\\components\\selectMovie.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\selectMovie.tsx",
+              "RelativeToolTip": "src\\components\\selectMovie.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T17:06:40.034Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "selectRoom.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\selectRoom.tsx",
+              "RelativeDocumentMoniker": "src\\components\\selectRoom.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\selectRoom.tsx",
+              "RelativeToolTip": "src\\components\\selectRoom.tsx",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T17:38:02.519Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Users.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\Users.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Users.tsx",
+              "RelativeToolTip": "src\\pages\\Users.tsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADUAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-22T23:25:02.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:490213655:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1397882721:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:697809136:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployMain.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\EmployMain.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\EmployMain.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\EmployMain.tsx",
+              "RelativeToolTip": "src\\pages\\EmployMain.tsx",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowF4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-19T10:19:56.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "user.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\user.tsx",
+              "RelativeDocumentMoniker": "src\\components\\user.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\user.tsx",
+              "RelativeToolTip": "src\\components\\user.tsx",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-22T14:35:55.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "room.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\room.tsx",
+              "RelativeDocumentMoniker": "src\\components\\room.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\room.tsx",
+              "RelativeToolTip": "src\\components\\room.tsx",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T10:52:12.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "place.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\place.tsx",
+              "RelativeDocumentMoniker": "src\\components\\place.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\place.tsx",
+              "RelativeToolTip": "src\\components\\place.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T16:34:31.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeansPage.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\SeansPage.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\SeansPage.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\SeansPage.tsx",
+              "RelativeToolTip": "src\\pages\\SeansPage.tsx",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T16:11:20.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Login.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\Login.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Login.tsx",
+              "RelativeToolTip": "src\\pages\\Login.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T17:10:39.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Users.tsx",
+              "RelativeDocumentMoniker": "src\\services\\Users.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Users.tsx",
+              "RelativeToolTip": "src\\services\\Users.tsx",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-22T23:09:18.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\User.tsx",
+              "RelativeDocumentMoniker": "src\\utils\\User.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\User.tsx",
+              "RelativeToolTip": "src\\utils\\User.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-22T14:40:19.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "seans.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\seans.tsx",
+              "RelativeDocumentMoniker": "src\\components\\seans.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\seans.tsx",
+              "RelativeToolTip": "src\\components\\seans.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T11:32:44.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "show.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\show.tsx",
+              "RelativeDocumentMoniker": "src\\components\\show.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\show.tsx",
+              "RelativeToolTip": "src\\components\\show.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T19:52:20.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditShow.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\EditShow.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\EditShow.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\EditShow.tsx",
+              "RelativeToolTip": "src\\pages\\EditShow.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T20:07:38.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Checking.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Checking.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\Checking.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Checking.tsx",
+              "RelativeToolTip": "src\\pages\\Checking.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T21:54:44.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "main.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\main.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\main.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\main.tsx",
+              "RelativeToolTip": "src\\pages\\main.tsx",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T12:00:32.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MoviePage.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\MoviePage.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\MoviePage.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\MoviePage.tsx",
+              "RelativeToolTip": "src\\pages\\MoviePage.tsx",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-19T15:20:06.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Register.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Register.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\Register.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\Register.tsx",
+              "RelativeToolTip": "src\\pages\\Register.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T22:42:09.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomPage.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\RoomPage.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\RoomPage.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\RoomPage.tsx",
+              "RelativeToolTip": "src\\pages\\RoomPage.tsx",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T15:06:09.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T11:22:19.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Rooms.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Rooms.tsx",
+              "RelativeDocumentMoniker": "src\\services\\Rooms.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Rooms.tsx",
+              "RelativeToolTip": "src\\services\\Rooms.tsx",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T10:54:48.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Shows.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Shows.tsx",
+              "RelativeDocumentMoniker": "src\\services\\Shows.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Shows.tsx",
+              "RelativeToolTip": "src\\services\\Shows.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T18:13:01.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddReservation.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\AddReservation.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\AddReservation.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\AddReservation.tsx",
+              "RelativeToolTip": "src\\pages\\AddReservation.tsx",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T19:15:46.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "movie.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\movie.tsx",
+              "RelativeDocumentMoniker": "src\\components\\movie.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\movie.tsx",
+              "RelativeToolTip": "src\\components\\movie.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-19T14:41:43.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T19:26:19.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwFwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-21T19:26:39.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CheckOrder.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\CheckOrder.tsx",
+              "RelativeDocumentMoniker": "src\\services\\CheckOrder.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\CheckOrder.tsx",
+              "RelativeToolTip": "src\\services\\CheckOrder.tsx",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T21:51:21.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Header.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\layouts\\Header.tsx",
+              "RelativeDocumentMoniker": "src\\layouts\\Header.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\layouts\\Header.tsx",
+              "RelativeToolTip": "src\\layouts\\Header.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T22:30:47.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetSeanses.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\GetSeanses.tsx",
+              "RelativeDocumentMoniker": "src\\services\\GetSeanses.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\GetSeanses.tsx",
+              "RelativeToolTip": "src\\services\\GetSeanses.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T12:03:42.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Movies.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Movies.tsx",
+              "RelativeDocumentMoniker": "src\\services\\Movies.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Movies.tsx",
+              "RelativeToolTip": "src\\services\\Movies.tsx",
+              "ViewState": "AgIAALIAAAAAAAAAAAAcwMUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-19T14:40:13.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "usePagination.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\layouts\\usePagination.tsx",
+              "RelativeDocumentMoniker": "src\\layouts\\usePagination.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\layouts\\usePagination.tsx",
+              "RelativeToolTip": "src\\layouts\\usePagination.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T10:27:52.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Pagination.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\assets\\Pagination.tsx",
+              "RelativeDocumentMoniker": "src\\assets\\Pagination.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\assets\\Pagination.tsx",
+              "RelativeToolTip": "src\\assets\\Pagination.tsx",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T10:30:38.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddTicket.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\AddTicket.tsx",
+              "RelativeDocumentMoniker": "src\\services\\AddTicket.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\AddTicket.tsx",
+              "RelativeToolTip": "src\\services\\AddTicket.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T19:12:31.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LogIn.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\LogIn.tsx",
+              "RelativeDocumentMoniker": "src\\services\\LogIn.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\LogIn.tsx",
+              "RelativeToolTip": "src\\services\\LogIn.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T18:06:49.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Register.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Register.tsx",
+              "RelativeDocumentMoniker": "src\\services\\Register.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\Register.tsx",
+              "RelativeToolTip": "src\\services\\Register.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T22:56:08.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SeansI.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\SeansI.tsx",
+              "RelativeDocumentMoniker": "src\\utils\\SeansI.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\SeansI.tsx",
+              "RelativeToolTip": "src\\utils\\SeansI.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T11:34:55.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ShowI.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\ShowI.tsx",
+              "RelativeDocumentMoniker": "src\\utils\\ShowI.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\ShowI.tsx",
+              "RelativeToolTip": "src\\utils\\ShowI.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T18:00:08.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MovieI.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\MovieI.tsx",
+              "RelativeDocumentMoniker": "src\\utils\\MovieI.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\MovieI.tsx",
+              "RelativeToolTip": "src\\utils\\MovieI.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-19T13:51:55.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EditMovieI.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\EditMovieI.tsx",
+              "RelativeDocumentMoniker": "src\\utils\\EditMovieI.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\EditMovieI.tsx",
+              "RelativeToolTip": "src\\utils\\EditMovieI.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-19T17:29:48.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AddMovie.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\AddMovie.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\AddMovie.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\AddMovie.tsx",
+              "RelativeToolTip": "src\\pages\\AddMovie.tsx",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwFEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-19T18:25:30.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddRoom.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\AddRoom.tsx",
+              "RelativeDocumentMoniker": "src\\pages\\AddRoom.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\pages\\AddRoom.tsx",
+              "RelativeToolTip": "src\\pages\\AddRoom.tsx",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T13:03:50.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "createroom.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\createroom.tsx",
+              "RelativeDocumentMoniker": "src\\components\\createroom.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\components\\createroom.tsx",
+              "RelativeToolTip": "src\\components\\createroom.tsx",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T13:07:19.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Room.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\Room.tsx",
+              "RelativeDocumentMoniker": "src\\utils\\Room.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\Room.tsx",
+              "RelativeToolTip": "src\\utils\\Room.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-20T10:53:14.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RefreshSession.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\RefreshSession.tsx",
+              "RelativeDocumentMoniker": "src\\services\\RefreshSession.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\RefreshSession.tsx",
+              "RelativeToolTip": "src\\services\\RefreshSession.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T17:39:58.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CategoryI.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\CategoryI.tsx",
+              "RelativeDocumentMoniker": "src\\utils\\CategoryI.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\CategoryI.tsx",
+              "RelativeToolTip": "src\\utils\\CategoryI.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-19T16:18:11.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddMovieI.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\AddMovieI.tsx",
+              "RelativeDocumentMoniker": "src\\utils\\AddMovieI.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\AddMovieI.tsx",
+              "RelativeToolTip": "src\\utils\\AddMovieI.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-19T20:21:41.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LogOut.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\LogOut.tsx",
+              "RelativeDocumentMoniker": "src\\services\\LogOut.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\services\\LogOut.tsx",
+              "RelativeToolTip": "src\\services\\LogOut.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T22:22:30.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LoginI.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\LoginI.tsx",
+              "RelativeDocumentMoniker": "src\\utils\\LoginI.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\LoginI.tsx",
+              "RelativeToolTip": "src\\utils\\LoginI.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T18:07:44.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "vite-env.d.ts",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\vite-env.d.ts",
+              "RelativeDocumentMoniker": "src\\vite-env.d.ts",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\vite-env.d.ts",
+              "RelativeToolTip": "src\\vite-env.d.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T20:45:46.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\eslint.config.js",
+              "RelativeDocumentMoniker": "eslint.config.js",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\eslint.config.js",
+              "RelativeToolTip": "eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-18T20:46:16.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RegisterI.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\RegisterI.tsx",
+              "RelativeDocumentMoniker": "src\\utils\\RegisterI.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\RegisterI.tsx",
+              "RelativeToolTip": "src\\utils\\RegisterI.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T22:44:02.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T20:46:12.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T20:48:00.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "tsconfig.node.json",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\tsconfig.node.json",
+              "RelativeDocumentMoniker": "tsconfig.node.json",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\tsconfig.node.json",
+              "RelativeToolTip": "tsconfig.node.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T20:46:02.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T20:45:55.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "tsconfig.app.json",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\tsconfig.app.json",
+              "RelativeDocumentMoniker": "tsconfig.app.json",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\tsconfig.app.json",
+              "RelativeToolTip": "tsconfig.app.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T20:46:08.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\vite.config.ts",
+              "RelativeDocumentMoniker": "vite.config.ts",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\vite.config.ts",
+              "RelativeToolTip": "vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-18T20:45:58.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "main.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\main.tsx",
+              "RelativeDocumentMoniker": "src\\main.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\main.tsx",
+              "RelativeToolTip": "src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T11:17:07.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TicketI.tsx",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\TicketI.tsx",
+              "RelativeDocumentMoniker": "src\\utils\\TicketI.tsx",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\TicketI.tsx",
+              "RelativeToolTip": "src\\utils\\TicketI.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-02-17T20:47:52.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "stylePagin.css",
+              "DocumentMoniker": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\stylePagin.css",
+              "RelativeDocumentMoniker": "src\\utils\\stylePagin.css",
+              "ToolTip": "D:\\WDAI\\Projekt2\\KinoFront\\src\\utils\\stylePagin.css",
+              "RelativeToolTip": "src\\utils\\stylePagin.css",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-18T10:50:42.231Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

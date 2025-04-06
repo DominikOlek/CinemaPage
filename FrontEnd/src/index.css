@@ -1,0 +1,116 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    color-scheme: light dark;
+    color: var(--main);
+    background-color: #242424;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    --main: #ed8f0d;
+}
+
+
+a {
+    font-weight: 500;
+    color: var(--main);
+    text-decoration: inherit;
+}
+    a:hover {
+        color: #d07900;
+    }
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+.ShowElement {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Dwa elementy w jednym wierszu */
+    grid-template-rows: auto auto; /* Drugi wiersz na pe³n¹ szerokoœæ */
+    gap: 10px; /* Odstêp miêdzy elementami */
+    width: 50vw;
+    border-bottom: 5px solid var(--main);
+}
+
+    .ShowElement img {
+        width: 50%;
+        box-shadow: 5px 5px 20px #d07900;
+        border-radius: 10px;
+    }
+
+.left, .right {
+    text-align: center;
+}
+.right {
+    text-align: justify-all;
+}
+
+.ShowElement p, .ShowElement h1 {
+    grid-column: span 2;
+    margin:2%;
+    padding:0;
+}
+
+.ShowElement h1 {
+    text-shadow: 1px 1px 7px #d07900;
+}
+
+.ShowElement i {
+    font-size:110%;
+}
+
+.full {
+    grid-column: span 2;
+}
+
+@media (prefers-color-scheme: light) {
+    : root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+.Current {
+    border: 1px solid var(--main);
+}
+
+.NavOpt:hover, input:hover, button:hover {
+    border: 1px solid var(--main);
+}

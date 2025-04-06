@@ -1,0 +1,105 @@
+﻿import React, { useState, useEffect, useMemo, FormEvent } from "react";
+import { useNavigate, useParams } from "react-router-dom";
+import Header from "../layouts/Header";
+import SelectMovie from "../components/selectMovie";
+import SelectRoom from "../components/selectRoom";
+import ShowI from "../utils/ShowI";
+import { editShow as editS } from "../services/Shows";
+import { MovieI } from "../utils/SeansI";
+
+const pageSize = 10;
+const EditShow: React.FC = () => {
+    const navigate = useNavigate();
+    const { id } = useParams();
+    const [show, setShow] = useState<MovieI | null>(null);
+    const [roomID, setRoomID] = useState<number>(-1);
+    const [movieID, setMovieID] = useState<number>(-1);
+    const [startDateTime, setStartDateTime] = useState<string>("");
+    const [endDateTime, setEndDateTime] = useState<string>("");
+    const [error, setError] = useState<string>("");
+
+    function refresh() {
+        const stored = sessionStorage.getItem("seanses");
+        if (stored) {
+            const seansEl: MovieI[] = JSON.parse(stored);
+            const found = seansEl.find((a) => a.ID == Number(id));
+            setEndDateTime(new Date(found.EndTime).toISOString().split("Z")[0]);
+            setStartDateTime(new Date(found.StartTime).toISOString().split("Z")[0]);
+            setShow(found || null);
+            setMovieID(found.MovieID);
+            setRoomID(found.RoomID);
+        }
+    }
+
+    useEffect(() => {
+        refresh();
+    }, [id]);
+
+    const edit = async (e: FormEvent) => {
+        e.preventDefault();
+        setError("");
+        const Start: Date = new Date(e.target.StartTime.value);
+        if (Start >= new Date(e.target.EndTime.value) || Start.getTime() < Date.now()) {
+            setError("Błędnie wskazane godziny");
+            return;
+        }
+        if (e.target.NormalPrice.value > e.target.VIPPrice.value) {
+            setError("Błędnie podane ceny");
+            return;
+        }
+        const data: ShowI = {
+            MovieID: movieID, RoomID: roomID, NormalPrice: Number(e.target.NormalPrice.value), VIPPrice: Number(e.target.VIPPrice.value),
+            StartTime: e.target.StartTime.value + ":00+00:00", EndTime: e.target.EndTime.value + ":00+00:00",
+            Is3D: e.target.Is3D.checked, IsIMAX: e.target.IsIMAX.checked,
+            Is4D: e.target.Is4D.checked, IsScreenX: e.target.IsScreenX.checked
+        };
+        const res = await editS(show.ID,data);
+        if (res == "out") {
+            navigate("/login");
+        } else if (res == "ok") {
+            navigate("/main");
+        } else {
+            setError(res);
+        }
+    }
+    if (!show) return <p>Nie znaleziono :( .</p>;
+
+
+    return (
+        <>
+            <Header Main={false} Movie={false} Room={false} Show={true} Ticket={false} Users={false} />
+            <button onClick={() => navigate(-1)}>Powrót</button>
+            <div style={{ width: "90vw", display: "flex", justifyContent: "center", WebkitJustifyContent: "space-around" }}>
+                <SelectMovie set={setMovieID} PageSize={pageSize} instSelected={show.MovieID} showSelected={show.MovieInfoID} />
+                <SelectRoom set={setRoomID} PageSize={pageSize} selected={show.RoomID} />
+            </div>
+            <form onSubmit={async (e) => { await edit(e); }}>
+                <div>
+                    <label>Cena Normalna: <input type="number" name="NormalPrice" defaultValue={show.NormalPrice} required min={0} /></label><br />
+                    <label>Cena VIP: <input type="number" name="VIPPrice" defaultValue={show.VIPPrice}  required min={0} /> cal</label><br />
+                    <label>Czas rozpoczęcia: <input type="datetime-local" name="StartTime" value={startDateTime} onChange={(e: React.ChangeEvent<HTMLInputElement>) => { setStartDateTime(e.target.value); setEndDateTime(e.target.value) }} required /></label><br />
+                    <label>Czas zakończenia: <input type="datetime-local" name="EndTime" value={endDateTime} onChange={(e) => setEndDateTime(e.target.value)} required /></label><br />
+                </div>
+                <table style={{ width: "50%", margin: "auto", tableLayout: "fixed" }}>
+                    <tbody>
+                        <tr>
+                            <td>3D</td>
+                            <td>4D</td>
+                            <td>IMAX</td>
+                            <td>ScreenX</td>
+                        </tr>
+                        <tr>
+                            <td><input type="checkbox" name="Is3D" defaultChecked={show.Is3D}></input></td>
+                            <td><input type="checkbox" name="Is4D" defaultChecked={show.Is4D}></input></td>
+                            <td><input type="checkbox" name="IsIMAX" defaultChecked={show.IsIMAX}></input></td>
+                            <td><input type="checkbox" name="IsScreenX" defaultChecked={show.IsScreenX}></input></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <input type="submit" value="Edytuj (gdy brak rezerwacji)" />
+            </form>
+            <p>{error}</p>
+        </>
+    );
+}
+export default EditShow;
