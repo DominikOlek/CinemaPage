@@ -1,4 +1,4 @@
-import React, { useState, FormEvent, useMemo, useEffect, ChangeEvent, ReactEventHandler } from "react";
+import React, { useState, useMemo, useEffect, ChangeEvent } from "react";
 import { useNavigate } from "react-router-dom";
 import UserI from "../utils/User";
 import { getData } from "../services/Users";
@@ -26,7 +26,7 @@ const Users: React.FC = () => {
     }, [users, currentPage]);
 
     function search(e: ChangeEvent<HTMLInputElement>) {
-        setUsers(usersHardData.filter((a) => (a.Name.toLowerCase().indexOf(e.currentTarget.value.toLowerCase()) >= 0 || a.La.toLowerCase().indexOf(e.currentTarget.value.toLowerCase()) >= 0)));
+        setUsers(usersHardData.filter((a) => (a.Name.toLowerCase().indexOf(e.currentTarget.value.toLowerCase()) >= 0 || a.LastName.toLowerCase().indexOf(e.currentTarget.value.toLowerCase()) >= 0)));
     }
 
     useEffect(() => {
@@ -67,7 +67,7 @@ const Users: React.FC = () => {
                 currentPage={currentPage}
                 totalCount={users.length}
                 pageSize={PageSize}
-                onPageChange={page => setCurrentPage(page)}
+                onPageChange={(page: React.SetStateAction<number>) => setCurrentPage(page)}
             />
         </>
     )

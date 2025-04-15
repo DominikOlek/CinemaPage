@@ -1,6 +1,6 @@
 import refreshAccessToken from "./RefreshSession";
 
-async function getData() {
+async function getData():Promise<boolean> {
     try {
         const response = await fetch("http://127.0.0.1:5173/api/show/", {
             method: "POST"
@@ -20,8 +20,12 @@ async function getData() {
         sessionStorage.setItem("seanses", json);
         return true;
 
-    } catch (error) {
-        console.error(error.message);
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            alert(error.message);
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return false;
 };

@@ -1,5 +1,4 @@
 ﻿import React, { useEffect, useState, FormEvent } from "react";
-import { useParams, Link } from "react-router-dom";
 import { useNavigate } from 'react-router-dom';
 import RoomI from "../utils/Room";
 import { addRoom } from "../services/Rooms";

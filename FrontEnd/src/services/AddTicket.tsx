@@ -16,8 +16,12 @@ async function addTicket(ticket: TicketI) {
         const res = await response.text();
         return res;
 
-    } catch (error) {
-        console.error(error.message);
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            console.error(error.message);
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return null;
 };

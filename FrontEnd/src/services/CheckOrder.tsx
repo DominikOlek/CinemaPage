@@ -30,8 +30,13 @@ async function checkOrder(email:string, id:number) {
         obj.Places.forEach((el: number[]) => { let ty =el[2]? "Normalny" : "VIP"; places += " Rząd: " + el[0] + " Krzesło: " + el[1] + " Rodzaj: " + ty +"\n"});
         return "Ok Sala: " + obj.RoomID + "\n Miejsca: \n" + places;
 
-    } catch (error) {
-        return error.message;
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            alert(error.message);
+            return error.message;
+        } else {
+            console.error("Wystąpił nieznany błąd");
+        }
     }
     return "error";
 };

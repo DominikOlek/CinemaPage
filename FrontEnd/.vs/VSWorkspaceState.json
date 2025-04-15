@@ -7,9 +7,8 @@
     "\\src\\layouts",
     "\\src\\pages",
     "\\src\\routes",
-    "\\src\\services",
-    "\\src\\utils"
+    "\\src\\services"
   ],
-  "SelectedNode": "\\src\\pages\\Users.tsx",
+  "SelectedNode": "\\src\\pages\\AddMovie.tsx",
   "PreviewInSolutionExplorer": false
 }

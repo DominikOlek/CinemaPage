@@ -2,7 +2,7 @@ import UserI from "../utils/User";
 import refreshAccessToken from "./RefreshSession";
 
 
-async function getData(active:boolean) {
+async function getData(active:boolean): Promise<boolean> {
     try {
         const data = { IsConfirm: active };
         const response = await fetch("http://127.0.0.1:5173/api/api/", {
@@ -30,8 +30,12 @@ async function getData(active:boolean) {
         sessionStorage.setItem("users", json);
         return true;
 
-    } catch (error) {
-        console.error(error.message);
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            console.error(error.message);
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return true;
 };
@@ -61,9 +65,13 @@ async function setRole(data) :Promise<string>{
         await getData(true);
         return "ok";
 
-    } catch (error) {
-        alert(error.message);
-        return error.message;
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            alert(error.message);
+            return error.message;
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return "error";
 };
@@ -93,9 +101,13 @@ async function setStatus(data: UserI) {
         await getData(data.Confirm);
         return "ok";
 
-    } catch (error) {
-        alert(error.message);
-        return error.message;
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            alert(error.message);
+            return error.message;
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return "error";
 };

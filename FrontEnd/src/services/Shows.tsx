@@ -27,9 +27,13 @@ async function addShow(data: ShowI) {
         await getData();
         return "ok";
 
-    } catch (error) {
-        alert(error.message);
-        return error.message;
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            alert(error.message);
+            return error.message;
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return "error";
 };
@@ -58,8 +62,12 @@ async function remove(id: number) {
         await getData();
         return true;
 
-    } catch (error) {
-        alert(error.message);
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            alert(error.message);
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return true;
 };
@@ -89,10 +97,15 @@ async function editShow(id: number, data: ShowI) {
         await getData();
         return "ok";
 
-    } catch (error) {
-        alert(error.message);
-        return error.message;
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            alert(error.message);
+            return error.message;
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
+    return "error";
 };
 
 export { addShow, remove, editShow }

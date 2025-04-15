@@ -93,7 +93,7 @@ const Rooms: React.FC = () => {
                 currentPage={currentPage}
                 totalCount={rooms.length}
                 pageSize={PageSize}
-                onPageChange={page => setCurrentPage(page)}
+                onPageChange={(page: React.SetStateAction<number>) => setCurrentPage(page)}
             />
         </>
     )

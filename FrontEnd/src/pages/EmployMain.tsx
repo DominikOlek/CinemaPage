@@ -114,7 +114,7 @@ const EMain: React.FC = () => {
                 currentPage={currentPage}
                 totalCount={seanses.length}
                 pageSize={PageSize}
-                onPageChange={page => setCurrentPage(page)}
+                onPageChange={(page: React.SetStateAction<number>) => setCurrentPage(page)}
             />
         </>
     )

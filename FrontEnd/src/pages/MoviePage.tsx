@@ -1,4 +1,4 @@
-﻿import React, { useEffect, useState } from "react";
+﻿import React, { useEffect, useState, FormEvent } from "react";
 import { useParams, Link } from "react-router-dom";
 import MovieI from "../utils/MovieI";
 import EditMovieI from "../utils/EditMovieI";

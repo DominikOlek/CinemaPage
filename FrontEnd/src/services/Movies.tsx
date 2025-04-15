@@ -2,7 +2,7 @@ import EditMovieI from "../utils/EditMovieI";
 import { MovieI } from "../utils/SeansI";
 import refreshAccessToken from "./RefreshSession";
 
-async function getData() {
+async function getData() :Promise <boolean>{
     try {
         const response = await fetch("http://127.0.0.1:5173/api/movie/", {
             method: "GET"
@@ -24,8 +24,12 @@ async function getData() {
         await getLang();
         return true;
 
-    } catch (error) {
-        console.error(error.message);
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            console.error(error.message);
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return false;
 };
@@ -57,8 +61,12 @@ async function getCategory() {
         sessionStorage.setItem("categories", json);
         return true;
 
-    } catch (error) {
-        console.error(error.message);
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            console.error(error.message);
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return false;
 };
@@ -90,8 +98,12 @@ async function getLang() {
         sessionStorage.setItem("lang", json);
         return true;
 
-    } catch (error) {
-        console.error(error.message);
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            console.error(error.message);
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return false;
 };
@@ -121,9 +133,12 @@ async function editMovie(id:number, data:EditMovieI) {
         await getData();
         return true;
 
-    } catch (error) {
-        console.error(error.message);
-        alert(error.message);
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            alert(error.message);
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return true;
 };
@@ -152,8 +167,12 @@ async function removeInst(id: number) {
         await getData();
         return true;
 
-    } catch (error) {
-        alert(error.message);
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            alert(error.message);
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return true;
 };
@@ -182,8 +201,12 @@ async function addInst(movieID:number, LangID:number, SubID:number) {
         await getData();
         return true;
 
-    } catch (error) {
-        alert(error.message);
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            alert(error.message);
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return true;
 };
@@ -213,9 +236,13 @@ async function addMovie(data: MovieI) {
         await getData();
         return "ok";
 
-    } catch (error) {
-        alert(error.message);
-        return error.message;
+    } catch (error: unknown) {
+        if (error instanceof Error) {
+            alert(error.message);
+            return error.message;
+        } else {
+            console.error("Wyst¹pi³ nieznany b³¹d");
+        }
     }
     return "error";
 };

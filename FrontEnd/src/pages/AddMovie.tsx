@@ -1,5 +1,4 @@
 ﻿import React, { useEffect, useState, FormEvent } from "react";
-import { useParams, Link } from "react-router-dom";
 import AddMovieI from "../utils/AddMovieI";
 import { useNavigate } from 'react-router-dom';
 import CategoryI from "../utils/CategoryI";
@@ -27,8 +26,12 @@ const AddMovie: React.FC = () => {
             }
             return true;
 
-        } catch (error) {
-            console.error(error.message);
+        } catch (error: unknown) {
+            if (error instanceof Error) {
+                console.error(error.message);
+            } else {
+                console.error("Wystąpił nieznany błąd");
+            }
             return false;
         }
     }
